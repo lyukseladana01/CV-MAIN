@@ -1,6 +1,6 @@
-# Atakan Emre'nin Online CV'si
+# Yuksel Levent'in Online CV'si
 
-Bu proje, Atakan Emre'nin online CV'sini GitHub Pages kullanarak yayınlamak için hazırlanmıştır. CV, web tarayıcıları üzerinden erişilebilir ve güncel bilgileri içerir. CV sayfasını ziyaret etmek için: [https://atakan-emre.github.io/cv/](https://atakan-emre.github.io/cv/)
+Bu proje, Yuksel Levent'in online CV'sini GitHub Pages kullanarak yayınlamak için hazırlanmıştır. CV, web tarayıcıları üzerinden erişilebilir ve güncel bilgileri içerir. CV sayfasını ziyaret etmek için: [https://atakan-emre.github.io/cv/](https://atakan-emre.github.io/cv/)
 
 ## Özellikler
 
